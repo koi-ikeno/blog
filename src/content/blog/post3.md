@@ -2,7 +2,7 @@
 title: "「機械学習用語or品質管理用語」クイズの解説"
 description: "「クイズメーカー」様で作った、「機械学習用語or品質管理用語」クイズの解説です。"
 pubDate: "Sep 12 2022"
-heroImage: "../../../public/post_img.webp"
+heroImage: "https://koi-ikeno.github.io/blog/post_img.webp"
 tags: ["other"]
 ---
 
