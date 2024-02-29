@@ -6,7 +6,7 @@ custom_link: "https://koisignal.gumroad.com/l/muuuj"
 updatedDate: "Oct 16 2022"
 pricing: "$5"
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/chorda1280720.webp"
+heroImage: "../../../public/chorda1280720.webp"
 ---
 
 Beautiful and useful chord tables in Ableton Live session view.

@@ -6,7 +6,7 @@ custom_link: "https://koisignal.gumroad.com/l/brwrmt"
 updatedDate: "Sep 11 2022"
 pricing: "$4"
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/chordl1280720.webp"
+heroImage: "heroImage: "../../../public/chordl1280720.webp"
 ---
 
 Beautiful, but also useful chord tables
