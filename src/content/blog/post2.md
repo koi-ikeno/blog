@@ -2,7 +2,7 @@
 title: "Spectrasonics Omnisphere 2 waveform error? Check file corruption!"
 description: "I investigated what was going on and found some data corruption, so I am leaving this as a reminder."
 pubDate: "Sep 11 2022"
-heroImage: "heroImage: "../../../public/post_img.webp"
+heroImage: "../../../public/post_img.webp"
 ---
 Omnisphere is a very popular sound source plugin for DTM.
 You've installed Omnisphere on your storage device, but it's sounding weird.
