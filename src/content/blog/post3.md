@@ -5,6 +5,7 @@ pubDate: "Sep 12 2022"
 heroImage: "../../../public/post_img.webp"
 tags: ["other"]
 ---
+
 <a href="https://quiz-maker.site/">こちら</a>の「クイズメーカー」様で作った、
 「機械学習用語or品質管理用語」クイズの解説です。
 <a href="https://quiz-maker.site/quiz/play/qESUiW20220408044340">クイズその1</a>　<a href="https://quiz-maker.site/quiz/play/UaFD9f20220408050132">クイズその2</a>

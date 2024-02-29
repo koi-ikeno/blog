@@ -4,6 +4,7 @@ description: "I investigated what was going on and found some data corruption, s
 pubDate: "Sep 11 2022"
 heroImage: "../../../public/post_img.webp"
 ---
+
 Omnisphere is a very popular sound source plugin for DTM.
 You've installed Omnisphere on your storage device, but it's sounding weird.
 The sound is strange. Noisy, choppy, and some tones fail to load.
