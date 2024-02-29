@@ -1,0 +1,89 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+---
+
+<BaseLayout title = "Projects" sideBarActiveItemID="projects">
+  <div>
+    <div class="text-3xl w-full font-bold mb-5">Android Apps</div>
+  </div>
+
+  <HorizontalCard
+    title="Nitrate Studio"
+    img="/nitrate1280720.webp"
+    desc="Nitrous Tracker(Nitro Tracker) and other music tools"
+    url="#"
+    badge="COMING SOON"
+  />
+  <div class="divider my-0"></div>
+  <HorizontalCard
+    title="Figgy tracker"
+    img="/figgy1280720.webp"
+    desc="A Fork of pIGGY tracker(littleGPTracker), functionally enhanced with android native libraries"
+    url="https://play.google.com/store/apps/details?id=com.koisignal.figgytracker"
+  />
+<div class="divider my-0"></div>
+  <HorizontalCard
+    title="Hex-a-Hop-Per!"
+    img="/hex1280720.webp"
+    desc="Android port of Hex-a-Hop puzzle game, using SDL2"
+    url="https://play.google.com/store/apps/details?id=koisignal.hexahop.per"
+    badge="GPL"
+  />
+<div class="divider my-0"></div>
+  <HorizontalCard
+    title="KBass"
+    img="/kbass1280720.webp"
+    desc="Open303 soundengine with 16 step sequencer"
+    url="https://play.google.com/store/apps/details?id=com.koisignal.kbassseq"
+  />
+<div class="divider my-0"></div>
+  <HorizontalCard
+    title="Assignable Page Turner"
+    img="/page1280720.webp"
+    desc="PDF Viewer, which you can assign HID device buttons such as mouse click, gamepad, to scroll up/down "
+    url="https://play.google.com/store/apps/details?id=koisignal.pageturner"
+  />
+
+<div class="divider my-0"></div>
+  <HorizontalCard
+    title="(Japan Only)真似するぬいぐるみ"
+    img="/mane1280720.webp"
+    desc="声真似するぬいぐるみのやつ"
+    url="https://play.google.com/store/apps/details?id=com.koisignal.manesim"
+  />
+
+  <div>
+    <div class="text-3xl w-full font-bold mb-5 mt-10">Plugins</div>
+  </div>
+
+  <HorizontalCard
+    title="Caller Caller VST3"
+    img="/caller1280720.webp"
+    desc="Simple midi note triger for ducking"
+    url="https://github.com/koi-ikeno/CallerCaller"
+    badge="GPL"
+  />
+  <!--
+  <div class="divider my-0"></div>
+  <HorizontalCard
+    title="reSIDler VST3"
+    img="/post_img.webp"
+    desc="reSIDler build as vst3"
+    url="#"
+    badge="GPL"
+  />
+  -->
+
+  <div>
+    <div class="text-3xl w-full font-bold mb-5 mt-10">Scripts</div>
+  </div>
+  
+  <HorizontalCard
+    title="Julia PyPlot examples"
+    img="/julia1280720.webp"
+    desc="matplotlib plot examples ported to Julia PyPlot"
+    url="https://koisignal.com/?p=422"
+  />
+
+</BaseLayout>
