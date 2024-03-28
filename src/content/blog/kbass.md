@@ -2,7 +2,7 @@
 title: "Android App「Hex-a-Hop-Per!」Privacy Policy"
 description: "Privacy Policy"
 pubDate: "Jan 1 2000"
-heroImage: "/post_img.webp"
+heroImage: "https://koi-ikeno.github.io/blog/post_img.webp"
 ---
 App page URL:<a href="https://play.google.com/store/apps/details?id=koisignal.hexahop.per">https://play.google.com/store/apps/details?id=koisignal.hexahop.per</a>
 

@@ -2,7 +2,7 @@
 title: "Androidアプリ「真似するぬいぐるみ」プライバシーポリシー"
 description: "プライバシーポリシー"
 pubDate: "Jan 1 2000"
-heroImage: "/post_img.webp"
+heroImage: "https://koi-ikeno.github.io/blog/post_img.webp"
 ---
 About Advertisements
 This application uses AdMob (Google Inc.) as an advertising distribution tool, and AdMob may automatically acquire information about users. Please refer to the following link to the application privacy policy of the ad-serving company for information on the information acquired, purpose of use, provision to third parties, etc.
