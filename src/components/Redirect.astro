@@ -1,0 +1,24 @@
+---
+let searchKey = '';
+
+try {
+  if (Astro.request.method === 'GET') {
+    const url = new URL(Astro.request.url);
+    const params = new URLSearchParams(url.search);
+    searchKey = params.get('search_key');
+  }
+} catch (error) {
+  console.error(error);
+}
+---
+
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GETパラメータのテスト</title>
+  </head>
+  <body>
+    <p>search_key: {searchKey}</p>
+  </body>
+</html>
