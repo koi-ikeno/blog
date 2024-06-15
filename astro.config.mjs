@@ -6,8 +6,8 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://koi-ikeno.github.io',
-  base: '/blog',
+  site: 'https://koi-ikeno.github.io/blog/',
+  base: '/',
   integrations: [mdx(), sitemap(), tailwind()],
 
 });
