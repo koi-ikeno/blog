@@ -1,11 +1,10 @@
 ---
 title: "Beautiful Chord Tables for Ableton Live"
 description: "Various chords arranged in session view"
-custom_link_label: "Live Preview"
+custom_link_label: "Gumroad"
 custom_link: "https://koisignal.gumroad.com/l/muuuj"
 updatedDate: "Oct 16 2022"
 pricing: "$5"
-checkoutUrl: "https://checkouturl.com/"
 heroImage: "https://koi-ikeno.github.io/blog/chorda1280720.webp"
 ---
 
