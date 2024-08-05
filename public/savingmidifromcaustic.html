@@ -97,7 +97,7 @@ Attempting to convert demo project files (CAUSTIC STORM.caustic, HALF LIFE.caust
       };
       reader.readAsArrayBuffer(fileData);
       
-      log('(2/5)install pyodide python packages...');
+      log('(2/5)install pyodide python packages.This process will take several tens of seconds....');
       // Create the Python convert toy function
       let pyodide = await loadPyodide();
       await pyodide.loadPackage("micropip");
